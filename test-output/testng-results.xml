@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="11" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22028170" started-at="2020-04-22T08:02:29 CDT" finished-at="2020-04-22T14:09:37 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22028170" started-at="2020-04-22T08:02:29 CDT" finished-at="2020-04-22T14:09:37 CDT">
+      <class name="wv.testcases.TC_01_Login">
+        <test-method status="PASS" signature="intializeTestSuite()[pri:0, instance:wv.testcases.TC_01_Login@2a94a702]" name="intializeTestSuite" is-config="true" duration-ms="29" started-at="2020-04-22T08:02:29 CDT" finished-at="2020-04-22T08:02:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeTestSuite -->
+        <test-method status="PASS" signature="getTestCaseDetails(java.lang.reflect.Method)[pri:0, instance:wv.testcases.TC_01_Login@2a94a702]" name="getTestCaseDetails" is-config="true" duration-ms="59" started-at="2020-04-22T08:02:29 CDT" finished-at="2020-04-22T08:02:29 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void wv.testcases.TC_01_Login.TC_01_Login() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCaseDetails -->
+        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:wv.testcases.TC_01_Login@2a94a702]" name="TC_01_Login" duration-ms="12959" started-at="2020-04-22T08:02:29 CDT" finished-at="2020-04-22T08:02:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Login -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:wv.testcases.TC_01_Login@2a94a702]" name="publishReport" is-config="true" duration-ms="151" started-at="2020-04-22T08:02:42 CDT" finished-at="2020-04-22T08:02:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- wv.testcases.TC_01_Login -->
+      <class name="wv.testcases.TC_07_Rate_Profile">
+        <test-method status="PASS" signature="getTestCaseDetails(java.lang.reflect.Method)[pri:0, instance:wv.testcases.TC_07_Rate_Profile@60a64104]" name="getTestCaseDetails" is-config="true" duration-ms="2" started-at="2020-04-22T13:29:27 CDT" finished-at="2020-04-22T13:29:27 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void wv.testcases.TC_07_Rate_Profile.Rate_Profile()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCaseDetails -->
+        <test-method status="PASS" signature="Rate_Profile()[pri:0, instance:wv.testcases.TC_07_Rate_Profile@60a64104]" name="Rate_Profile" duration-ms="1205044" started-at="2020-04-22T13:29:27 CDT" finished-at="2020-04-22T13:49:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rate_Profile -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:wv.testcases.TC_07_Rate_Profile@60a64104]" name="publishReport" is-config="true" duration-ms="14" started-at="2020-04-22T13:49:32 CDT" finished-at="2020-04-22T13:49:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- wv.testcases.TC_07_Rate_Profile -->
+      <class name="wv.testcases.TC_05_Create_Charger">
+        <test-method status="PASS" signature="getTestCaseDetails(java.lang.reflect.Method)[pri:0, instance:wv.testcases.TC_05_Create_Charger@3261b8bf]" name="getTestCaseDetails" is-config="true" duration-ms="2" started-at="2020-04-22T08:03:31 CDT" finished-at="2020-04-22T08:03:31 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void wv.testcases.TC_05_Create_Charger.TC_05_Create_Charger()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCaseDetails -->
+        <test-method status="PASS" signature="TC_05_Create_Charger()[pri:0, instance:wv.testcases.TC_05_Create_Charger@3261b8bf]" name="TC_05_Create_Charger" duration-ms="18351219" started-at="2020-04-22T08:03:31 CDT" finished-at="2020-04-22T13:09:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_Create_Charger -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:wv.testcases.TC_05_Create_Charger@3261b8bf]" name="publishReport" is-config="true" duration-ms="16" started-at="2020-04-22T13:09:22 CDT" finished-at="2020-04-22T13:09:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- wv.testcases.TC_05_Create_Charger -->
+      <class name="wv.testcases.TC_06_Discount_Summary">
+        <test-method status="PASS" signature="getTestCaseDetails(java.lang.reflect.Method)[pri:0, instance:wv.testcases.TC_06_Discount_Summary@21da6808]" name="getTestCaseDetails" is-config="true" duration-ms="2" started-at="2020-04-22T08:02:42 CDT" finished-at="2020-04-22T08:02:42 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void wv.testcases.TC_06_Discount_Summary.TC_06_Discount_Summary()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCaseDetails -->
+        <test-method status="PASS" signature="TC_06_Discount_Summary()[pri:0, instance:wv.testcases.TC_06_Discount_Summary@21da6808]" name="TC_06_Discount_Summary" duration-ms="48519" started-at="2020-04-22T08:02:42 CDT" finished-at="2020-04-22T08:03:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_06_Discount_Summary -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:wv.testcases.TC_06_Discount_Summary@21da6808]" name="publishReport" is-config="true" duration-ms="29" started-at="2020-04-22T08:03:31 CDT" finished-at="2020-04-22T08:03:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- wv.testcases.TC_06_Discount_Summary -->
+      <class name="wv.testcases.TC_08_Operating_Hour_Profile_Group_Summary">
+        <test-method status="PASS" signature="getTestCaseDetails(java.lang.reflect.Method)[pri:0, instance:wv.testcases.TC_08_Operating_Hour_Profile_Group_Summary@12ceff30]" name="getTestCaseDetails" is-config="true" duration-ms="2" started-at="2020-04-22T13:49:32 CDT" finished-at="2020-04-22T13:49:32 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void wv.testcases.TC_08_Operating_Hour_Profile_Group_Summary.Operating_Hour_Profile_Group_Summary()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCaseDetails -->
+        <test-method status="PASS" signature="Operating_Hour_Profile_Group_Summary()[pri:0, instance:wv.testcases.TC_08_Operating_Hour_Profile_Group_Summary@12ceff30]" name="Operating_Hour_Profile_Group_Summary" duration-ms="1205042" started-at="2020-04-22T13:49:32 CDT" finished-at="2020-04-22T14:09:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Operating_Hour_Profile_Group_Summary -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:wv.testcases.TC_08_Operating_Hour_Profile_Group_Summary@12ceff30]" name="publishReport" is-config="true" duration-ms="14" started-at="2020-04-22T14:09:37 CDT" finished-at="2020-04-22T14:09:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- wv.testcases.TC_08_Operating_Hour_Profile_Group_Summary -->
+      <class name="wv.testcases.TC_04_Create_Station">
+        <test-method status="PASS" signature="getTestCaseDetails(java.lang.reflect.Method)[pri:0, instance:wv.testcases.TC_04_Create_Station@6f854741]" name="getTestCaseDetails" is-config="true" duration-ms="2" started-at="2020-04-22T13:09:22 CDT" finished-at="2020-04-22T13:09:22 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void wv.testcases.TC_04_Create_Station.TC_04_Create_Station()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCaseDetails -->
+        <test-method status="PASS" signature="TC_04_Create_Station()[pri:0, instance:wv.testcases.TC_04_Create_Station@6f854741]" name="TC_04_Create_Station" duration-ms="1205049" started-at="2020-04-22T13:09:22 CDT" finished-at="2020-04-22T13:29:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_Create_Station -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:wv.testcases.TC_04_Create_Station@6f854741]" name="publishReport" is-config="true" duration-ms="16" started-at="2020-04-22T13:29:27 CDT" finished-at="2020-04-22T13:29:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- wv.testcases.TC_04_Create_Station -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

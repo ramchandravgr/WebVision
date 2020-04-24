@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <classes>
+  <class name="wv.testcases.TC_01_Login"></class>
+  <class name="wv.testcases.TC_06_Discount_Summary"></class>
+  <class name="wv.testcases.TC_05_Create_Charger"></class>
+  
+  
+  <class name="wv.testcases.TC_04_Create_Station"></class>
+   
+  
+ 
+  <class name="wv.testcases.TC_07_Rate_Profile"></class>
+  <class name="wv.testcases.TC_08_Operating_Hour_Profile_Group_Summary"></class>
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
